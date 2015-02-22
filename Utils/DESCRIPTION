@@ -1,0 +1,10 @@
+Package: Utils
+Type: Package
+Title: My first R package
+Version: 1.0
+Date: 2015-02-21
+Author: Eric Clymer
+Maintainer: Eric Clymer <eric.w.clymer@gmail.com>
+Description: Where I learn about R?
+License: ?
+Built: R 3.1.2; ; 2015-02-22 03:31:54 UTC; windows
